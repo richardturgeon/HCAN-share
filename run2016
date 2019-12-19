@@ -1,0 +1,1 @@
+python -m pdb estimator_cnn.py --train --eval --epochs 5 --inpfx 2016-all
